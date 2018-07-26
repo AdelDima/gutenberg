@@ -1058,8 +1058,8 @@ function get_block_categories( $post ) {
 			'title' => __( 'Embeds', 'gutenberg' ),
 		),
 		array(
-			'slug'  => 'shared',
-			'title' => __( 'Shared Blocks', 'gutenberg' ),
+			'slug'  => 'reusable',
+			'title' => __( 'Reusable Blocks', 'gutenberg' ),
 		),
 	);
 
