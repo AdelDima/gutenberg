@@ -607,7 +607,7 @@ export default {
 		const reusableBlock = {
 			id: uniqueId( 'reusable' ),
 			clientId: parsedBlock.clientId,
-			title: __( 'Untitled reusable block' ),
+			title: __( 'Untitled Reusable Block' ),
 		};
 
 		dispatch( receiveReusableBlocks( [ {
